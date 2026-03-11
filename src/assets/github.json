@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "ZenTask – Productivity Dashboard",
+    "description": "A modern productivity dashboard with task management, theme toggle, pomodoro timer, and dynamic wallpapers based on time.",
+   "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "tag": ["HTML", "CSS", "JavaScript", "LocalStorage"],
+    "repositoryLink": "https://github.com/yourusername/zentask",
+    "demoLink": "https://zentask-1wrs.onrender.com/"
+  },
+  {
+    "id": 2,
+    "title": "Notes CRUD App",
+    "description": "Full-stack notes application with create, read, update and delete functionality using React, Node.js, Express, and MongoDB.",
+     "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "tag": ["React", "Node.js", "Express", "MongoDB"],
+    "repositoryLink": "https://github.com/yourusername/notes-app",
+    "demoLink": "https://notes-app-demo.com"
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce Platform",
+    "description": "An e-commerce web application with product listing, cart functionality, authentication, and payment integration.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
+    "tag": ["React", "Tailwind CSS", "Node.js", "JWT"],
+    "repositoryLink": "https://github.com/yourusername/ecommerce",
+    "demoLink": "https://ecommerce-demo.com"
+  },
+  {
+    "id": 4,
+    "title": "Weather App",
+    "description": "A real-time weather application that fetches data from an API and displays temperature, humidity, and wind speed.",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b",
+    "tag": ["JavaScript", "API", "CSS"],
+    "repositoryLink": "https://github.com/yourusername/weather-app",
+    "demoLink": "https://weather-app-demo.com"
+  },
+    {
+    "id": 5,
+    "title": "Weather App",
+    "description": "A real-time weather application that fetches data from an API and displays temperature, humidity, and wind speed.",
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b",
+    "tag": ["JavaScript", "API", "CSS"],
+    "repositoryLink": "https://github.com/yourusername/weather-app",
+    "demoLink": "https://weather-app-demo.com"
+  }
+]
