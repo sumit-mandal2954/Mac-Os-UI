@@ -1,7 +1,7 @@
 import React from 'react'
 import './navbar.scss'
 import DateTime from './DateTime'
-import appleSvg from '../../../public/Nacbar-icon/apple.svg'
+import appleSvg from '../../public/Nacbar-icon/apple.svg'
 import wifiSvg from '../../public/Nacbar-icon/wifi.svg'
 
 function Navbar() {
