@@ -9,7 +9,7 @@ function Navbar() {
         <div className="nav-icons">
             <div className="left">
                 <div className="apple">
-                    <img src="/public/Nacbar-icon/apple.svg"  />
+                    <img src="/Navbar-icon/apple.svg" />
                 </div>
                 <div className="name">
                     <p>Sumit Kumar</p>
