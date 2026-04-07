@@ -1,5 +1,6 @@
 import React from 'react'
 import { Rnd } from 'react-rnd'
+import { motion } from 'framer-motion'
 import './macwindow.scss'
 
 const Macwindow = ({children,width='40vw', height="60vh",setwindowstate,windowName}) => {
