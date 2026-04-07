@@ -4,7 +4,7 @@ import gitdata from "../assets/github.json";
 import "./github.scss";
 
 const Card = (data) => {
-  const { id, title, description, image, tag, demoLink, repositoryLink } =
+  const { title, description, image, tag, demoLink, repositoryLink } =
     data.data;
   return (
     <div className="card">
