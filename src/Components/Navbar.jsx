@@ -1,6 +1,8 @@
 import React from 'react'
 import './navbar.scss'
 import DateTime from './DateTime'
+import appleSvg from '/public/Navbar-icon/apple.svg'
+import wifiSvg from '/public/Navbar-icon/wifi.svg'
 
 function Navbar() {
  
@@ -9,7 +11,7 @@ function Navbar() {
         <div className="nav-icons">
             <div className="left">
                 <div className="apple">
-                    <img src="/Navbar-icon/apple.svg" />
+                    <img src={appleSvg}  />
                 </div>
                 <div className="name">
                     <p>Sumit Kumar</p>
@@ -26,7 +28,7 @@ function Navbar() {
             </div>
             <div className="right">
                 <div className="wifi">
-                    <img src="/public/Nacbar-icon/wifi.svg" />
+                    <img src={wifiSvg} />
                 </div>
                 <div className="date">
                     <DateTime/>
